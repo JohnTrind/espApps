@@ -33,7 +33,7 @@ class SysInfo(App):
 
         dim = lcd.color(170, 170, 170)
         lines = [
-            ("sysinfo", lcd.color(255, 220, 0), 2),
+            ("sysinfo v2", lcd.color(255, 220, 0), 2),
             ("", 0, 1),
             ("RAM free", dim, 1),
             ("%d KB" % (free // 1024), 0xFFFF, 2),
