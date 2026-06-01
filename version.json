@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "released": "2026-06-01",
+  "message": "initial release",
+  "apps": [
+    "btscan",
+    "flappy",
+    "focustimer",
+    "localchat",
+    "notepad",
+    "notify",
+    "picker",
+    "pixelpad",
+    "pong",
+    "stacker",
+    "sysinfo",
+    "taptempo",
+    "temperature",
+    "touchmeter",
+    "vicode",
+    "wifiradar"
+  ]
+}
