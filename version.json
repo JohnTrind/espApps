@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "released": "2026-06-01",
-  "message": "initial release",
+  "message": "verify sync flow",
   "apps": [
     "btscan",
     "flappy",
